@@ -1,4 +1,3 @@
-<?php include('server.php') ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +12,6 @@
 	
 	<form method="post" action="login.php">
 
-		<?php include('errors.php'); ?>
 
 		<div class="input-group">
 			<label>Username</label>
